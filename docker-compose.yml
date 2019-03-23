@@ -2,7 +2,7 @@ version: '2'
 
 services:
   websocket:
-    image: suyu/springbootwebsocket:v1.0.0
+    image: firewolf990/springbootwebsocket:v1.0.0
     restart: always
     container_name: websocket
     hostname: websocket
